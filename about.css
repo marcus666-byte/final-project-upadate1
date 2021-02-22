@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 110vh;
+  object-fit: cover;
+  padding: 20px;
+}
+
+.about {
+  display: flex;
+  padding: 20px;
+}

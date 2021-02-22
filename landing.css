@@ -1,0 +1,12 @@
+.landing {
+  background-color: #899e8b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.landing h1 {
+  padding: 20px;
+}

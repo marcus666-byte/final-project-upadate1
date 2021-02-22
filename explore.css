@@ -1,0 +1,36 @@
+.explore {
+  background-color: #706c61;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+}
+
+img {
+  width: 50vh;
+  padding: 10px;
+  object-fit: cover;
+}
+
+h2 {
+  font-size: 30px;
+  position: relative;
+  top: 100px;
+  text-align: center;
+}
+
+.wed {
+  background-color: #899e8b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+}
+
+.vid {
+  background-color: #99c5b5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+}
